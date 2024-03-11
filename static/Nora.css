@@ -8,8 +8,11 @@
 }
 
 .u-section-1 .u-text-1 {
-  margin-bottom: 60px;
-  margin-top: 60px;
+  margin: 61px auto 60px 0;
+}
+
+.u-section-1 .u-icon-1 {
+  margin-top: 0;
 }
 
 @media (max-width: 767px) {
